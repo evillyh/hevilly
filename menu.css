@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(171, 102, 206);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#navegacao{
+    width:100%;
+    background-color: rgb(241, 6, 159);
+}
+.menu{
+    color: palevioletred;
+    background-color: rebeccapurple;
+    display: inline-flex;
+    padding: 10px;
+}
+.menu:hover{
+    background-color: pink;
+    transition: 1s;
+}
